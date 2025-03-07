@@ -3,4 +3,5 @@ using namespace std;
 
 int main(){
     cout << "Radiva Galih";
+    cout << "Jogja";
 }
